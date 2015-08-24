@@ -1,0 +1,7 @@
+timestamp: 2015-08-24T07:10:25.502398
+CREATE TABLE todos(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title CHAR(512),
+    isCompleted CHAR(1)
+);
+success!
